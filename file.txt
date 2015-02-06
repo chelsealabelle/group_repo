@@ -3,11 +3,4 @@ hello
 
 hello from erika, sorry suckas i deleted you
 
-<<<<<<< HEAD
-hi this is from erikas branch
-=======
-
-
-
-changing shit
->>>>>>> 9b099c6fee1c954976bc1f1817d1b6c1ab703fef
+HEY! IM WRITING FROM MY OWN BRANCH - ERIKA
